@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1575430600 source:c:\users\igor\desktop\sistema de fatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<stdbool.h>
+	"auxiliares.h"
+	"data.h"
+	"cliente.h"
+	"lista_de_clientes.h"
+	"fatura.h"
+	"lista_de_faturas.h"
+
+1575298553 c:\users\igor\desktop\sistema de fatura\auxiliares.h
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1575298583 c:\users\igor\desktop\sistema de fatura\data.h
+
+1575344754 c:\users\igor\desktop\sistema de fatura\cliente.h
+
+1575429972 c:\users\igor\desktop\sistema de fatura\lista_de_clientes.h
+
+1575298455 c:\users\igor\desktop\sistema de fatura\fatura.h
+
+1575298495 c:\users\igor\desktop\sistema de fatura\lista_de_faturas.h
+
+1575656579 source:c:\users\alunos\desktop\sistema de fatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<stdbool.h>
+	"auxiliares.h"
+	"data.h"
+	"cliente.h"
+	"lista_de_clientes.h"
+	"fatura.h"
+	"lista_de_faturas.h"
+
+1575298553 c:\users\alunos\desktop\sistema de fatura\auxiliares.h
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1575298583 c:\users\alunos\desktop\sistema de fatura\data.h
+
+1575656692 c:\users\alunos\desktop\sistema de fatura\cliente.h
+
+1575429972 c:\users\alunos\desktop\sistema de fatura\lista_de_clientes.h
+
+1575298455 c:\users\alunos\desktop\sistema de fatura\fatura.h
+
+1575298495 c:\users\alunos\desktop\sistema de fatura\lista_de_faturas.h
+
+1575656580 source:d:\sistema de fatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<stdbool.h>
+	"auxiliares.h"
+	"data.h"
+	"cliente.h"
+	"lista_de_clientes.h"
+	"fatura.h"
+	"lista_de_faturas.h"
+
+1575298554 d:\sistema de fatura\auxiliares.h
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1575298584 d:\sistema de fatura\data.h
+
+1575674272 d:\sistema de fatura\cliente.h
+
+1575429974 d:\sistema de fatura\lista_de_clientes.h
+
+1575674466 d:\sistema de fatura\fatura.h
+
+1575674386 d:\sistema de fatura\lista_de_faturas.h
+
+1575772224 source:c:\users\luiza sampaio\documents\sistema de fatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<stdbool.h>
+	"auxiliares.h"
+	"data.h"
+	"cliente.h"
+	"lista_de_clientes.h"
+	"fatura.h"
+	"lista_de_faturas.h"
+
+1575298554 c:\users\luiza sampaio\documents\sistema de fatura\auxiliares.h
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1575733576 c:\users\luiza sampaio\documents\sistema de fatura\data.h
+
+1575729440 c:\users\luiza sampaio\documents\sistema de fatura\cliente.h
+
+1575739623 c:\users\luiza sampaio\documents\sistema de fatura\lista_de_clientes.h
+
+1575733764 c:\users\luiza sampaio\documents\sistema de fatura\fatura.h
+
+1575741700 c:\users\luiza sampaio\documents\sistema de fatura\lista_de_faturas.h
+
